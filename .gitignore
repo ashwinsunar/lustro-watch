@@ -13,3 +13,7 @@ frontend/node_modules/
 .opencode/goal
 .opencode/goals
 .agents/skills/
+
+# Opencode config
+opencode.json
+skills-lock.json
